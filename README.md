@@ -1,8 +1,20 @@
-# Inter IIT Tech Meet - Synthetic Data Sponsor Library
-**Author/Sponsor:** Karthikeya Adari (Genuity)
+# Inter IIT Tech Meet 14.0 — Synthetic Data Sponsor Library
 
-This internal library was provided as the benchmark standard for synthetic data generation during the Inter IIT Tech Meet. 
+**Sponsor:** Karthikeya Adari (Genuity IO)
 
-## Features
-- **Model Collapse Prevention:** Entropy injection layers to prevent mode collapse during recursive LLM/GAN training on synthetic outputs.
-- **Multi-Table Relational Joining:** Graph-based generation maintaining foreign-key constraints and referential integrity across 20+ tables.
+Genuity's sponsored problem statement (PS) release for Inter IIT Tech Meet 14.0,
+served to 2,000+ students across 23 IITs alongside Adobe, ISRO, Pathway,
+Observe.ai, Ebullient Securities, and Eternal.
+
+## Modules
+
+- `model_collapse_prevention.py` — entropy-injection layers that resist mode
+  collapse when models train recursively on synthetic outputs.
+- `multi_table_join.py` — graph-based multi-table synthesis preserving PK/FK
+  constraints and referential integrity.
+
+## Use
+
+Reference implementations accompanying the PS. Participants build on these
+patterns for relational synthetic data; scoring and full problem text live with
+the Tech Meet organizers.
