@@ -1,6 +1,6 @@
 # Inter IIT Tech Meet 14.0 — Synthetic Data Sponsor Library
 
-**Sponsor:** Karthikeya Adari (Genuity IO)
+**Sponsor:** Adari Karthikeya (Genuity IO)
 
 Genuity's sponsored problem statement (PS) release for Inter IIT Tech Meet 14.0,
 served to 2,000+ students across 23 IITs alongside Adobe, ISRO, Pathway,
